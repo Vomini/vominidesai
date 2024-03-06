@@ -25,7 +25,7 @@ class Projects extends Component {
             key={projects.title}
             style={{ cursor: "pointer"}}
           >
-            <span className="portfolio-item d-block">
+            <span className="projects-item d-block">
               <div className="foto" onClick={() => detailsModalShow(projects)}>
                 <div>
                   <img

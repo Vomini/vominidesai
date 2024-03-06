@@ -113,7 +113,7 @@ class Contact extends Component {
                         <ul>
                           <li>
                             <a
-                              href=""
+                              href="https://github.com/Vomini"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -124,7 +124,7 @@ class Contact extends Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://www.linkedin.com/in/vomini-desai/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
