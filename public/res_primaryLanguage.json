@@ -1,0 +1,352 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Vomini Desai. As a graduate student in Computer Science with diverse internship experiences in software development, data science, and web development, I am enthusiastic about applying my technical skills and analytical abilities to innovative projects. With a strong educational background and hands-on experience in front-end technologies and data analytics, I am keen to contribute to a team that values creativity, problem-solving, and a commitment to excellence.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience",
+        "education": "Education",
+        "contact": "Contact"
+      }
+    },
+    "projects": [
+      {
+        "title": "CI/CD for a Flask Web Application",
+        "startDate": "Jan 2024 - Feb 2024",
+        "description": "Orchestrated a Continuous Integration and Deployment (CI/CD) pipeline for a Flask-based note-making web application, utilizing Jenkins and Docker. The implementation automated the build, test, and deployment phases, ensuring seamless and dependable code integration and release processes. The project delivered substantial outcomes, manifesting in a notable 50% reduction in deployment time, a 30% decrease in post-deployment issues, and a remarkable 40% enhancement in developer productivity. These improvements resulted in accelerated feature releases and elevated application quality.",
+        "images": [
+          "images/portfolio/project-1.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-jenkins-plain",
+            "name": "Jenkins"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-flask-plain",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          }
+        ]
+      },
+      
+      {
+        "title": "Implementation of Transient Memory in FoundationDB",
+        "startDate": "Oct 2023 - Nov 2023",
+        "description": "Implemented Transient memory server and Transient memory client in the FoundationDB software using Flow programming paradigm. It implements a C++ hash table to store key-value pairs and the client is a library used by unit tests to read and write key-value pairs to the server. FoundationDB uses transient memory for fast processing and less reliance on slow disk storage.",
+        "images": [
+          "images/portfolio/project4.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-foundation-plain",
+            "name": "FoundationDB"
+          }
+        ]
+      },
+      {
+        "title": "Sentiment Analysis with XAI and Pre-Processed Knowledge",
+        "startDate": "Sep 2023 - Nov 2023",
+        "description": "Developed a novel framework for Sentiment Analysis in NLP, integrating sentiment knowledge in pre-processing and using XAI techniques like SHAP, LIME, Anchors, and Feature Importance for optimal model selection and understanding of model predictions, achieving an accuracy of 83%.Utilized statistical methods including PMI, TF-IDF, Flesch Reading Ease Score, and Gunning Fog Index to enhance sentiment knowledge, resulting in significant improvements in real-time sentiment analysis across various applications.",
+        "images": [
+          "images/portfolio/project-3.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Web URL Shortener with AWS Lambda",
+        "startDate": "July 2023 - August 2023",
+        "description": "Developed a comprehensive URL shortening service using React for the frontend, AWS Lambda and DynamoDB for backend serverless functions, and API Gateway for URL handling. Implemented CI/CD with AWS CodePipeline, CodeBuild, and Infrastructure as Code tools, showcasing proficiency in full-stack development and DevOps practices. Additional features include custom short URLs, expiration time settings, and basic analytics for a practical and deployable tool.",
+        "images": [
+          "images/portfolio/project-2.png"
+        ],
+        "url":"",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS Lambda"
+          },
+          {
+            "class": "devicon-dynamodb-plain",
+            "name": "Amazon DynamoDB"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "Amazon API Gateway "
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS Codebuild "
+          }
+        ]
+      },
+      {
+        "title": "Geo Spatial Data Handling and Manipulation",
+        "startDate": "Feb 2023 - March 2023",
+        "description": "In this geospatial data project, I showcased my ability to manage, visualize, and analyze spatial data effectively. I generated longitude and latitude pairs for key locations around the USC campus, visualized them using Google Earth, and performed advanced spatial queries using PostGIS. Furthermore, I extended my skills to NoSQL databases by utilizing MongoDB Atlas to store and query spatial data. This included creating a spatial database to compute a convex hull, identify nearest neighbors, and handle GeoJSON data for dynamic visualization and spatial querying. The integration of MongoDB Atlas highlighted my competencies in managing spatial data within NoSQL environments, enriching my toolkit for geospatial data analysis. This project not only reinforced my geospatial data handling skills but also my proficiency in applying MongoDB for spatial queries, making me adept in both SQL and NoSQL environments for location-based data analysis.",
+        "images": [
+          "images/portfolio/project7.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB Atlas"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "TicketMaster Events Application",
+        "startDate": "Feb 2023 - May 2023",
+        "description": "Created a responsive website enabling users to effortlessly search for events, access detailed event information, bookmark preferred events as favorites, and seamlessly share event updates on Facebook and Twitter. Used Angularjs, Bootstrap and Python for the same.Implemented an Android application with all the aforementioned features of the website using Node.js as backend and using Java for the app development.",
+        "images": [
+          "images/portfolio/project5.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "AngularJs"
+          },
+          {
+            "class": "devicon-flask-plain",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android Java"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-googlecloud-plain",
+            "name": "GCP"
+          }
+        ]
+      },
+      
+      {
+        "title": "Dynamic Programming for Sequence Alignment Problem",
+        "startDate": "Nov 2022 - Dec 2022",
+        "description": "Implemented a basic Dynamic Programming algorithm and a memory-efficient variant. The project's outcomes demonstrated a polynomial time complexity for both algorithms; however, the memory-efficient approach significantly improved memory utilization, displaying a linear increase with problem size compared to the basic version's polynomial growth. This advancement highlights the efficacy of combining Divide and Conquer with Dynamic Programming to optimize the algorithm's space complexity, offering substantial benefits for large-scale sequence alignment challenges.",
+        "images": [
+          "images/portfolio/project8.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-thealgorithms-plain",
+            "name": "Algorithms"
+          }
+          
+        ]
+      },
+      {
+        "title": "Recommendation System using Data Mining",
+        "startDate": "Oct 2022 - Nov 2022",
+        "description": "Creating Min-Hash and LSH algorithms to identify similar business pairs from Yelp data, achieving an accuracy rate exceeding 85%.Developing a content-based recommendation system that utilized review texts to generate user and business profiles, resulting in prediction accuracies above 70%.Building collaborative filtering recommendation systems, both item-based and user-based, which achieved Root Mean Squared Error (RMSE) values of 0.9 and 1.0, respectively, for predicting user-business ratings.",
+        "images": [
+          "images/portfolio/project6.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-apachespark-plain",
+            "name": "Spark"
+          }
+          
+        ]
+      },
+      {
+        "title": "Blockchain-based Supply Chain Management System",
+        "startDate": "Oct 2021 - Dec 2021",
+        "description": "In enhancing Pharmaceutical Supply Chain Management, I implemented a decentralized structure using blockchain to validate data and combat counterfeit medicines. Smart Contracts, developed in Solidity on the Remix IDE, stored and verified information for all entities, integrated with a ReactJs-based user interface. The system enabled secure retrieval of verified data by fetching encrypted batch IDs from QR codes, showcasing my technical skills in blockchain, Smart Contract development, and user interface integration for robust supply chain solutions.",
+        "images": [
+          "images/portfolio/project10.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJs"
+          },
+          {
+            "class": "devicon-solidity-plain",
+            "name": "Solidity"
+          }
+        ]
+      },
+      {
+        "title": "XAI for Population Health Management",
+        "startDate": "June 2021 - Dec 2021",
+        "description": "Developed a clinical decision support system for chronic diseases, particularly focusing on diabetes, using Explainable AI (XAI) techniques. Leveraging features like Anchors, Shapley, and LIME on the Diabetes Dataset in Python, I identified key factors influencing diagnosis likelihood. The project explored the impact of feature variations on disease probability and post-diagnosis severity. The machine learning model, implemented with XGBoost, demonstrated a high accuracy of 98%, showcasing my adept use of advanced XAI methodologies for transparent and effective healthcare solutions.",
+        "images": [
+          "images/portfolio/project9.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Page Replacement Algorithm Website",
+        "startDate": "Sep 2021 - Nov 2021",
+        "description": "Designed and developed a website showcasing visualizations and explanations of diverse page replacement algorithms in operating systems. Leveraging CanvasJS with HTML, CSS, and Javascript, the site featured animations for algorithms such as FIFO, LIFO, MRU, Optimal, and Random, addressing Belady's Anomaly for FIFO. The interactive platform included features like generating random data, setting maximum and minimum page lengths and buffer sizes, executing multiple algorithms simultaneously with a comparison graph, and providing execution time metrics, offering a comprehensive educational resource for understanding and comparing page replacement strategies.",
+        "images": [
+          "images/portfolio/project11.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Anti-Malware Solution Using Machine Learning",
+        "startDate": "Aug 2021 - Sep 2021",
+        "description": "Trained a model which classifies a binary executable file as malware or non-malware using Random Forest Algorithm and obtained an accuracy of 99.42%. Leveraged various features such as the Entropy on various subsections of the file, OS/Architecture information and other metadata obtained from the file headers and metadata (Portable Executable format of a file).",
+        "images": [
+          "images/portfolio/project12.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "CGR Capital LLC",
+        "title": "Front-End Developer",
+        "years": "06.2022 - 08.2022",
+        "mainTech": [
+          "React.js"
+        ],
+        "details":"Utilized Figma to design and wireframe the UI/UX for a Smart Real Estate Management Web Application. Implemented React and Tailwind CSS to create intuitive web pages showcasing crucial information, such as customer real estate portfolios, investment reports, and exit strategies. Developed a user-friendly Live Deal Analyzer/Simulator page that dynamically simulates financial performance and key metrics based on user input. Integrated the front-end with the back-end, ensuring the complete functionality of the Web Application."
+      },
+      {
+        "company": "Blackcoffer",
+        "title": "Data Science Intern",
+        "years": "12.2021 - 04.2022",
+        "mainTech": [
+          "Python"
+        ],
+        "details":"Created automated software tools using Python Beautiful Soup, Google Sheets API, Twitter API, and PostgreSQL to efficiently retrieve and store data from diverse platforms like Google Ads Services and Twitter. Designed impactful Analytics Dashboards in Google Data Studio, delivering visually insightful user behavior summaries. Presented monthly metrics to clients (e.g., Decorium, LiveLike) using Google Analytics and Whatagraph, achieving a steady 5-10% month-by-month website traffic growth and a significant 6% overall increase in user engagement."
+      },
+      {
+        "company": "Gujarat Energy Research and Management Institute",
+        "title": "Software Developer Intern",
+        "years": "06.2021 - 08.2021",
+        "mainTech": [
+          "Python"
+        ],
+        "details":"Developed a Python and XML-based Web App for HR Absence Management, optimizing the time-off request submission process. Engineered features including support for multiple leave types, two-step approvals, and automated email notifications to both managers and HR, facilitating seamless leave request submissions by employees."
+      }
+    ],
+    "education": [
+      {
+        "school": "University of Southern California",
+        "address": "Los Angeles, California, United States",
+        "years": "08.2022 - Present",
+        "gpa": [
+          "GPA: 3.82/4.0"
+        ],
+        "courses": [
+          "Analysis of Algorithms",
+          "Data Mining",
+          "Web Technology",
+          "Database Management System",
+          "Applied Natural Language Processing",
+          "File & Data Management",
+          "Information Retreival & Search Engine"
+        ]
+      },
+      {
+        "school": "Pandit Deendayal Petroleum University",
+        "address": "Gandhinagar, Gujarat, India",
+        "years": "05.2018 - 05.2022",
+        "gpa": [
+          "GPA: 3.33/4.0"
+        ],
+        "courses": [
+          "Operating System",
+          "Database Management System",
+          "Data Structures & File Systems",
+          "Signals & Systems",
+          "Artificial Intelligence",
+          "Theory of Automata & Computation",
+          "Object Oriented Programming"
+        ]
+      }
+    ]
+  }
