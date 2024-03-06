@@ -1,0 +1,247 @@
+{
+    "basic_info": {
+      "name": "Vomini Desai",
+      "titles": [ "Software Developer", "Full-Stack Developer", "Back-end Developer", "Front-end Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Vomini",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/vomini-desai/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": [
+      {
+        "title": "Frontend",
+        "icons": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "Tailwind CSS",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "Angular",
+            "class": "devicon-angularjs-plain",
+            "level": "80"
+          },
+          {
+            "name": "TypeScript",
+            "class": "devicon-typescript-plain",
+            "level": "90"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
+          },
+          {
+            "name": "jQuery",
+            "class": "devicon-jquery-plain",
+            "level": "75"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "85"
+          },
+          {
+            "name": "React.js",
+            "class": "devicon-react-plain",
+            "level": "80"
+          },
+          {
+            "name": "Material UI",
+            "class": "devicon-materialui-plain",
+            "level": "80"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "icons": [
+          {
+            "name": "Node js",
+            "class": "devicon-nodejs-plain",
+            "level": "95"
+          },
+          {
+            "name": "Django",
+            "class": "devicon-django-plain",
+            "level": "95"
+          },
+          {
+            "name": "Flask",
+            "class": "devicon-flask-plain",
+            "level": "80"
+          },
+          {
+            "name": "MySQL",
+            "class": "devicon-mysql-plain",
+            "level": "90"
+          },
+          {
+            "name": "PostgreSQL",
+            "class": "devicon-postgresql-plain",
+            "level": "70"
+          },
+          {
+            "name": "MongoDB",
+            "class": "devicon-mongodb-plain",
+            "level": "70"
+          },
+          {
+            "name": "Firebase",
+            "class": "devicon-firebase-plain",
+            "level": "70"
+          }
+        ]
+      },
+      {
+        "title": "Programming Languages",
+        "icons": [
+          {
+            "name": "Python",
+            "class": "devicon-python-plain",
+            "level": "95"
+          },
+          {
+            "name": "Java",
+            "class": "devicon-java-plain",
+            "level": "95"
+          },
+          {
+            "name": "C",
+            "class": "devicon-c-plain",
+            "level": "80"
+          },
+          {
+            "name": "C++",
+            "class": "devicon-cplusplus-plain",
+            "level": "90"
+          },
+          {
+            "name": "SQL",
+            "class": "devicon-sqlite-plain",
+            "level": "70"
+          }
+        ]
+      },
+      {
+        "title": "Cloud & CI/CD Containerization",
+        "icons": [
+          {
+            "name": "AWS",
+            "class": "devicon-amazonwebservices-plain",
+            "level": "95"
+          },
+          {
+            "name": "GCP",
+            "class": "devicon-googlecloud-plain",
+            "level": "95"
+          },
+          {
+            "name": "Azure",
+            "class": "devicon-azure-plain",
+            "level": "80"
+          },
+          {
+            "name": "Docker",
+            "class": "devicon-docker-plain",
+            "level": "90"
+          },
+          {
+            "name": "Kubernetes",
+            "class": "devicon-kubernetes-plain",
+            "level": "70"
+          }
+        ]
+      },
+      {
+        "title": "ML/Data Science",
+        "icons": [
+          {
+            "name": "Numpy",
+            "class": "devicon-numpy-plain",
+            "level": "95"
+          },
+          {
+            "name": "Pandas",
+            "class": "devicon-pandas-plain",
+            "level": "95"
+          },
+          {
+            "name": "Scikit-Learn",
+            "class": "devicon-scikitlearn-plain",
+            "level": "80"
+          },
+          {
+            "name": "Hadoop",
+            "class": "devicon-hadoop-plain",
+            "level": "90"
+          },
+          {
+            "name": "Tensorflow",
+            "class": "devicon-tensorflow-original",
+            "level": "70"
+          },
+          {
+            "name": "Jupyter Notebook",
+            "class": "devicon-jupyter-plain",
+            "level": "70"
+          }
+        ]
+      },
+      {
+        "title": "Others",
+        "icons": [
+          {
+            "name": "Git",
+            "class": "devicon-git-plain",
+            "level": "95"
+          },
+          {
+            "name": "Github",
+            "class": "devicon-github-plain",
+            "level": "95"
+          },
+          {
+            "name": "Android Studio",
+            "class": "devicon-androidstudio-plain",
+            "level": "80"
+          },
+          {
+            "name": "VS Code",
+            "class": "devicon-vscode-plain",
+            "level": "90"
+          },
+          {
+            "name": "Postman",
+            "class": "devicon-postman-plain",
+            "level": "70"
+          },
+          {
+            "name": "Figma",
+            "class": "devicon-figma-plain",
+            "level": "70"
+          }
+        ]
+      }
+
+    ]
+  }
