@@ -5,7 +5,6 @@ class Contact extends Component {
     return (
       <section
         className="paralax-mf footer-paralax bg-image sect-mt4 route"
-        style={{ backgroundColor: '#e9d5a1' }}
       >
         <div className="overlay-mf"></div>
         <div className="container">

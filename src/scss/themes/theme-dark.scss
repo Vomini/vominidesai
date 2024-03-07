@@ -5,6 +5,10 @@ body[data-theme="dark"] {
    .slider-tab {
       background-color: #8C8C8C;
    }
+   .navbar{
+      background-color: #7f7f7f ;
+      
+   }
 
    .title-styles {
       color: white;
@@ -53,7 +57,7 @@ body[data-theme="dark"] {
       }
    }
 
-   #portfolio {
+   #projects {
       background: #5b5b5b;
       .section-title {
          color: white !important;
@@ -66,7 +70,7 @@ body[data-theme="dark"] {
       }
    }
 
-   #resume {
+   #experience {
       filter: brightness(80%);
       background: #5b5b5b;
       .section-title {
@@ -95,6 +99,67 @@ body[data-theme="dark"] {
          }
       }
    }
+   .paralax-mf {
+      background-color: #7f7f7f;
+   }
+   #education {
+      filter: brightness(80%);
+      background: #5b5b5b;
+      .section-title {
+         color: white !important;
+      }
+
+      .experience-badge {
+         background: #919191 !important;
+         color: white;
+      }
+
+      .main-badge {
+         background: #919191 !important;
+      }
+
+      .vertical-timeline-element-date {
+         color: white;
+      }
+
+      .vertical-timeline-element-icon {
+         background: #919191 !important;
+      }
+      @media only screen and (max-width: 1169px) { 
+         .vertical-timeline-element-date {
+            color: black;
+         }
+      }
+   }
+   .button:hover {
+      background-color: #5b5b5b;
+      color: #fff;
+      transition: all 500ms ease;
+     }
+     
+     .button-a {
+      background-color: #5b5b5b;
+      color: #fff;
+      border-color: #cde1f8;
+     }
+
+     .socials .ico-circle {
+      height: 40px;
+      width: 40px;
+      font-size: 1.7rem;
+      border-radius: 50%;
+      line-height: 1.4;
+      margin: 0 15px 0 0;
+      box-shadow: 0 0 0 3px #5b5b5b;
+      transition: all 500ms ease;
+     }
+     
+     .socials .ico-circle:hover {
+      background-color: #5b5b5b;
+      color: #fff;
+      box-shadow: 0 0 0 3px #cde1f8;
+      transition: all 500ms ease;
+     }
 
    .modal-inside .modal-content {
       background: #5b5b5b;

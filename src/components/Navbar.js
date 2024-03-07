@@ -51,7 +51,10 @@ class Navbar extends Component {
         <a
           className="nav-link"
           href={`#${section}`}
-          onClick={() => this.setActiveSection(section)}
+          onClick={() => {
+            this.setActiveSection(section);
+            document.getElementById("navbarDefault").classList.remove("show");
+          }}
         >
           {section.charAt(0).toUpperCase() + section.slice(1)}
         </a>

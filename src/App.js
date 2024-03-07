@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import $ from "jquery";
 import "./App.scss";
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
