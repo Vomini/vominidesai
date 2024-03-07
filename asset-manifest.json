@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vominidesai/static/css/main.270647c2.css",
-    "main.js": "/vominidesai/static/js/main.0829c778.js",
+    "main.css": "/vominidesai/static/css/main.6ed9a78c.css",
+    "main.js": "/vominidesai/static/js/main.a1d25592.js",
     "static/media/image-fotor.png": "/vominidesai/static/media/image-fotor.2b6f740868e512b1586d.png",
     "index.html": "/vominidesai/index.html",
-    "main.270647c2.css.map": "/vominidesai/static/css/main.270647c2.css.map",
-    "main.0829c778.js.map": "/vominidesai/static/js/main.0829c778.js.map"
+    "main.6ed9a78c.css.map": "/vominidesai/static/css/main.6ed9a78c.css.map",
+    "main.a1d25592.js.map": "/vominidesai/static/js/main.a1d25592.js.map"
   },
   "entrypoints": [
-    "static/css/main.270647c2.css",
-    "static/js/main.0829c778.js"
+    "static/css/main.6ed9a78c.css",
+    "static/js/main.a1d25592.js"
   ]
 }
