@@ -38,6 +38,20 @@
           }
         ]
       },
+      {
+        "title": "Podcast Summarizer Using WhisperX",
+        "startDate": "Dec 2023 - Feb 2024",
+        "description": "Revolutionizing the podcast landscape, this ingenious tool harmonizes advanced speech recognition with natural language processing prowess. Harnessing WhisperX's transcription capabilities and ChatGPT 3.5 Turbo's summarization mastery, it unlocks the quintessence of audio narratives. Seamlessly integrated with a user-friendly Streamlit frontend and Modal's robust backend deployment, GPU-accelerated processing elevates podcast content consumption to unprecedented heights, delivering insightful summaries, guest profiles, and highlights with unparalleled efficiency.",
+        "images": [
+          "images/portfolio/project13.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
       
       {
         "title": "Implementation of Transient Memory in FoundationDB",
@@ -105,6 +119,24 @@
           {
             "class": "devicon-amazonwebservices-plain",
             "name": "AWS Codebuild "
+          }
+        ]
+      },{
+        "title": "Stock Visualizer and Forecasting",
+        "startDate": "May 2023 - June 2023",
+        "description": "Developed a web app utilizing Plotly and Dash frameworks to visualize and forecast stock prices based on user-provided ticker symbols. The app features interactive charts and graphs displaying historical stock data, allowing users to visually analyze stock performance. It employs the Random Forest Regression algorithm to forecast future stock prices for a specified number of days ahead, leveraging the algorithm's ability to capture nonlinear relationships and handle high-dimensional data, achieving an accuracy of 87%.",
+        "images": [
+          "images/portfolio/project14.png"
+        ],
+        "url":"",
+        "technologies": [
+          {
+            "class": "devicon-plotly-original",
+            "name": "Plotly"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },
@@ -212,6 +244,34 @@
         ]
       },
       {
+        "title": "Food Donation Management Platform",
+        "startDate": "Jan 2022 - March 2022",
+        "description": "During a college hackathon, I worked on a React.js and Flask-based web platform to facilitate efficient coordination between food donors and an NGO. I implemented a feature using the Google Maps API to display optimal routes for collecting food donations, streamlining the logistics process. I also developed a recommendation system using a matrix-based collaborative filtering algorithm to suggest recipes based on available donated ingredients, optimizing resource utilization and minimizing food waste.",
+        "images": [
+          "images/portfolio/project15.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJs"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-express-plain",
+            "name": "ExpressJs"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          }
+          
+        ]
+      },
+      {
         "title": "Blockchain-based Supply Chain Management System",
         "startDate": "Oct 2021 - Dec 2021",
         "description": "In enhancing Pharmaceutical Supply Chain Management, I implemented a decentralized structure using blockchain to validate data and combat counterfeit medicines. Smart Contracts, developed in Solidity on the Remix IDE, stored and verified information for all entities, integrated with a ReactJs-based user interface. The system enabled secure retrieval of verified data by fetching encrypted batch IDs from QR codes, showcasing my technical skills in blockchain, Smart Contract development, and user interface integration for robust supply chain solutions.",
@@ -231,6 +291,26 @@
         ]
       },
       {
+        "title": "Health and Wellness Application",
+        "startDate": "Oct 2021 - Nov 2021",
+        "description": "I conceptualized and built an Android application called 'Global Health Recipes' that covers four key areas of health and wellness: Physiotherapy, Nutrition, Fitness Training, and Yoga. The app showcases professionals from each field, providing details about their location, services, relevant images, pricing, and customer feedback. I utilized MongoDB for effective data management.",
+        "images": [
+          "images/portfolio/project16.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android Java"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      
+      {
         "title": "XAI for Population Health Management",
         "startDate": "June 2021 - Dec 2021",
         "description": "Developed a clinical decision support system for chronic diseases, particularly focusing on diabetes, using Explainable AI (XAI) techniques. Leveraging features like Anchors, Shapley, and LIME on the Diabetes Dataset in Python, I identified key factors influencing diagnosis likelihood. The project explored the impact of feature variations on disease probability and post-diagnosis severity. The machine learning model, implemented with XGBoost, demonstrated a high accuracy of 98%, showcasing my adept use of advanced XAI methodologies for transparent and effective healthcare solutions.",
@@ -245,6 +325,7 @@
           }
         ]
       },
+      
       {
         "title": "Page Replacement Algorithm Website",
         "startDate": "Sep 2021 - Nov 2021",
